@@ -1,0 +1,2 @@
+streamlit==0.76.0
+linkedin-scraper==2.7.4
